@@ -1,11 +1,19 @@
 {
-  "users": [{
-    "id": 1,
-    "name": "Nícolas Costa",
-    "email": "nicolascosta@gmail.com"
-  }, {
-    "id": 2,
-    "name": "Lucca Olivares",
-    "email": "luccaolivares@gmail.com"
-  }]
+  "users": [
+    {
+      "id": 1,
+      "name": "Nícolas Costa",
+      "email": "nicolascosta@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Lucca Olivares",
+      "email": "luccaolivares@gmail.com"
+    },
+    {
+      "name": "Cleo Silva",
+      "email": "cleosilva@outlook.com",
+      "id": 3
+    }
+  ]
 }
