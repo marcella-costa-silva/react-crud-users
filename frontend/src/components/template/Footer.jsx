@@ -3,5 +3,7 @@ import './Footer.css'
 
 export default props =>
   <footer className="footer">
-    Footer
+    <span>
+      Desenvolvido com <i className="fa fa-heart text-danger"></i> por Marcella Tsangos
+    </span>
   </footer>
