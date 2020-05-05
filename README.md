@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# users-registration
->
-
-<!-- ![](users.png) -->
-=======
 # react-crud-users
->>>>>>> 262d6ab9d5d37beb1405acb7245bb06ff1216700
+> Projeto Cadastro de Usuário.
+
+![](crud1.png)
+![](crud2.png)
