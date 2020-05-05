@@ -6,14 +6,24 @@
       "email": "nicolascosta@gmail.com"
     },
     {
-      "id": 2,
-      "name": "Lucca Olivares",
-      "email": "luccaolivares@gmail.com"
+      "name": "Catarina Silva",
+      "email": "catarina@outlook.com",
+      "id": 3
     },
     {
-      "name": "Cleo Silva",
-      "email": "cleosilva@outlook.com",
-      "id": 3
+      "name": "Lucca",
+      "email": "lucca@email.com",
+      "id": 4
+    },
+    {
+      "name": "Théo",
+      "email": "theo@email.com",
+      "id": 5
+    },
+    {
+      "name": "Laura",
+      "email": "laura@gmail.com",
+      "id": 6
     }
   ]
 }
